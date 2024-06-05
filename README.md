@@ -3,7 +3,8 @@
 
 | 名称  |脚本   | 描述 |
 | ---- | ---- | ---- |
-[FaceFusion3.5.1](https://github.com/gitkimjob/kimjobff) | [![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gitkimjob/kimjobff/blob/main/tonyff_last.ipynb) |tony_FaceFusion3.5.1|
+| [E-Vpress](https://github.com/gitkimjob/E-Vpress) | [![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gitkimjob/kimjob_colab/blob/master/V-Express.ipynb) |E-Vpress音频驱动照片|
+| [FaceFusion3.5.1](https://github.com/gitkimjob/kimjobff) | [![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gitkimjob/kimjobff/blob/main/tonyff_last.ipynb) |tony_FaceFusion3.5.1|
 | [FaceFusion3.6](https://github.com/gitkimjob/kimjobff2.6) | [![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gitkimjob/kimjobff2.6/blob/master/face2.6.0.ipynb) |FaceFusion3.6自建cuda版本|
 | [Gemma](https://Github.com/google/gemma_pytorch) | [![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dream80/TonyColab/blob/master/backup/pytorch_gemma.ipynb) |谷歌开源的大语言模型Gemma|
 | [InstantID](https://github.com/InstantID/InstantID) | [![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dream80/TonyColab/blob/master/InstantID.ipynb) |1张照片，无需训练，秒级生成个人写真|
