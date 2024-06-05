@@ -3,7 +3,8 @@
 
 | 名称  |脚本   | 描述 |
 | ---- | ---- | ---- |
-| [FaceFusion2.6](https://github.com/gitkimjob/kimjobff2.6) | [![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gitkimjob/kimjobff2.6/blob/master/face2.6.0.ipynb) |谷歌开源的大语言模型Gemma|
+[FaceFusion3.5.1](https://github.com/gitkimjob/kimjobff) | [![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gitkimjob/kimjobff/blob/main/tonyff_last.ipynb) |tony_FaceFusion3.5.1|
+| [FaceFusion3.6](https://github.com/gitkimjob/kimjobff2.6) | [![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gitkimjob/kimjobff2.6/blob/master/face2.6.0.ipynb) |FaceFusion3.6自建cuda版本|
 | [Gemma](https://Github.com/google/gemma_pytorch) | [![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dream80/TonyColab/blob/master/backup/pytorch_gemma.ipynb) |谷歌开源的大语言模型Gemma|
 | [InstantID](https://github.com/InstantID/InstantID) | [![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dream80/TonyColab/blob/master/InstantID.ipynb) |1张照片，无需训练，秒级生成个人写真|
 | [PhotoMaker](https://github.com/TencentARC/PhotoMaker) | [![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dream80/TonyColab/blob/master/PhotoMaker.ipynb) | 通过堆叠 ID 嵌入定制逼真的人体照片 |
