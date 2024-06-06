@@ -3,7 +3,7 @@
 
 | 名称  |脚本   | 描述 |
 | ---- | ---- | ---- |
-| [AI翻唱克隆](https://github.com/gitkimjob/ChatTTS-Forge) | [![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gitkimjob/kimjob_colab/blob/master/Retrieval_based_Voice_Conversion_WebUI_v1.ipynb) |RVC_VOTIS唱歌声音克隆V1|
+| [AI翻唱克隆](https://github.com/gitkimjob/Retrieval-based-Voice-Conversion-WebUI_v1) | [![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gitkimjob/kimjob_colab/blob/master/Retrieval_based_Voice_Conversion_WebUI_v1.ipynb) |RVC_VOTIS唱歌声音克隆V1|
 | [ChatTTS-Forge](https://github.com/gitkimjob/ChatTTS-Forge) | [![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gitkimjob/kimjob_colab/blob/master/ChatTTS-Forge.ipynb) |ChatTTS高级版|
 | [E-Vpress](https://github.com/gitkimjob/E-Vpress) | [![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gitkimjob/kimjob_colab/blob/master/V-Express.ipynb) |E-Vpress音频驱动照片|
 | [FaceFusion3.5.1](https://github.com/gitkimjob/kimjobff) | [![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gitkimjob/kimjobff/blob/main/tonyff_last.ipynb) |tony_FaceFusion3.5.1|
