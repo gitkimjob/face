@@ -3,6 +3,7 @@
 
 | 名称  |脚本   | 描述 |
 | ---- | ---- | ---- |
+| [GPT-SoVTTS](https://github.com/RVC-Boss/GPT-SoVITS) | [![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gitkimjob/kimjob_colab/blob/master/GPT-SoVTTS.ipynb) |自定义声音GPT|
 | [AI翻唱克隆](https://github.com/gitkimjob/Retrieval-based-Voice-Conversion-WebUI_v1) | [![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gitkimjob/kimjob_colab/blob/master/Retrieval_based_Voice_Conversion_WebUI_v1.ipynb) |RVC_VOTIS唱歌声音克隆V1|
 | [ChatTTS-Forge](https://github.com/gitkimjob/ChatTTS-Forge) | [![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gitkimjob/kimjob_colab/blob/master/ChatTTS-Forge.ipynb) |ChatTTS高级版|
 | [E-Vpress](https://github.com/gitkimjob/E-Vpress) | [![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gitkimjob/kimjob_colab/blob/master/V-Express.ipynb) |E-Vpress音频驱动照片|
